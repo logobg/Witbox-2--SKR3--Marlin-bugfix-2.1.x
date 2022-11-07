@@ -1,3 +1,7 @@
+for the normal display you have to revert EXT1 and EXT2 cables on one side (board/display) to make it work (just saw-remove the plastic bump on the connector and plug them turned 180 degrees on the display side)
+
+this config is with BIGTREETECH TFT35 V3 display and esp32 wifi (ESP3D-2.1.x)
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
